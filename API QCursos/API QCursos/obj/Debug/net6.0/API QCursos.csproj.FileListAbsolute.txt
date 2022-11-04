@@ -1,0 +1,195 @@
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\bin\Debug\net6.0\appsettings.json
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\bin\Debug\net6.0\API QCursos.exe
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\bin\Debug\net6.0\API QCursos.deps.json
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\bin\Debug\net6.0\API QCursos.runtimeconfig.json
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\bin\Debug\net6.0\API QCursos.dll
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\bin\Debug\net6.0\API QCursos.pdb
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\bin\Debug\net6.0\Dapper.dll
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\bin\Debug\net6.0\System.DirectoryServices.dll
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.csproj.AssemblyReference.cache
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.AssemblyInfoInputs.cache
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.AssemblyInfo.cs
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.csproj.CoreCompileInputs.cache
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\obj\Debug\net6.0\scopedcss\bundle\API QCursos.styles.css
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.csproj.CopyComplete
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.dll
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\obj\Debug\net6.0\refint\API QCursos.dll
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.pdb
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.genruntimeconfig.cache
+C:\Users\CyberQ\Desktop\API QCursos\API QCursos\obj\Debug\net6.0\ref\API QCursos.dll
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\bin\Debug\net6.0\appsettings.json
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\bin\Debug\net6.0\API QCursos.exe
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\bin\Debug\net6.0\API QCursos.deps.json
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\bin\Debug\net6.0\API QCursos.runtimeconfig.json
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\bin\Debug\net6.0\API QCursos.dll
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\bin\Debug\net6.0\API QCursos.pdb
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\bin\Debug\net6.0\Dapper.dll
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\bin\Debug\net6.0\System.DirectoryServices.dll
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.csproj.AssemblyReference.cache
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.AssemblyInfoInputs.cache
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.AssemblyInfo.cs
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.csproj.CoreCompileInputs.cache
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\obj\Debug\net6.0\scopedcss\bundle\API QCursos.styles.css
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.csproj.CopyComplete
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.dll
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\obj\Debug\net6.0\refint\API QCursos.dll
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.pdb
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.genruntimeconfig.cache
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\obj\Debug\net6.0\ref\API QCursos.dll
+C:\Users\CyberQ\Desktop\QCursos\API QCursos\API QCursos\bin\Debug\net6.0\Dapper.SqlBuilder.dll
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\bin\Debug\net6.0\appsettings.json
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\bin\Debug\net6.0\API QCursos.exe
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\bin\Debug\net6.0\API QCursos.deps.json
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\bin\Debug\net6.0\API QCursos.runtimeconfig.json
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\bin\Debug\net6.0\API QCursos.dll
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\bin\Debug\net6.0\API QCursos.pdb
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\bin\Debug\net6.0\Dapper.dll
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\bin\Debug\net6.0\Dapper.SqlBuilder.dll
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\bin\Debug\net6.0\System.DirectoryServices.dll
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.csproj.AssemblyReference.cache
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.AssemblyInfoInputs.cache
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.AssemblyInfo.cs
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.csproj.CoreCompileInputs.cache
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\obj\Debug\net6.0\scopedcss\bundle\API QCursos.styles.css
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.csproj.CopyComplete
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.dll
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\obj\Debug\net6.0\refint\API QCursos.dll
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.pdb
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.genruntimeconfig.cache
+C:\Users\CyberQ\Desktop\master\API QCursos\API QCursos\obj\Debug\net6.0\ref\API QCursos.dll
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\bin\Debug\net6.0\appsettings.json
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\bin\Debug\net6.0\API QCursos.exe
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\bin\Debug\net6.0\API QCursos.deps.json
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\bin\Debug\net6.0\API QCursos.runtimeconfig.json
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\bin\Debug\net6.0\API QCursos.dll
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\bin\Debug\net6.0\API QCursos.pdb
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\bin\Debug\net6.0\Dapper.dll
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\bin\Debug\net6.0\Dapper.SqlBuilder.dll
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\bin\Debug\net6.0\System.DirectoryServices.dll
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.csproj.AssemblyReference.cache
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.AssemblyInfoInputs.cache
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.AssemblyInfo.cs
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.csproj.CoreCompileInputs.cache
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\obj\Debug\net6.0\scopedcss\bundle\API QCursos.styles.css
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.csproj.CopyComplete
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.dll
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\obj\Debug\net6.0\refint\API QCursos.dll
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.pdb
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\obj\Debug\net6.0\API QCursos.genruntimeconfig.cache
+C:\Users\CyberQ\Desktop\Projeto Final\API QCursos\API QCursos\obj\Debug\net6.0\ref\API QCursos.dll

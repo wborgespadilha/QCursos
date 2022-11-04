@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;600&display=swap");
+
+:root {
+  --dark-darker: #191d20;
+  --dark-item: #1b1f22;
+}
+
+* {
+  scroll-behavior: smooth;
+  overflow: unset;
+  font-family: "Montserrat", sans-serif;
+  color: #fff !important;
+  cursor: context-menu;
+  transition: .25s cubic-bezier(1, 0, 0, 1)
+}
+
+#app {
+  min-height: 100vh;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+  -moz-appearance: textField;
+}
+
+.navbar {
+  box-shadow: 0px 0px 5px #fff;
+}
+
+.transparent {
+  color: #fff !important;
+  background-color: transparent !important;
+}
+
+.hidePassword {
+  color: transparent !important;
+  text-shadow: 0px 0px 10px #fff;
+  transition: 0.2s;
+}
+
+.hidePassword:hover {
+  color: #fff !important;
+  text-shadow: none;
+  transition: 0.2s;
+  cursor: context-menu;
+}
+
+.accordion {
+  word-wrap: break-word !important;
+  word-break: break-all !important;
+}
+
+.adaptSize {
+  width: max-content !important;
+}
+
+.overFlow {
+  overflow-x: auto !important;
+}
+
+.undercolor {
+  background: 
+    linear-gradient(to right, rgba(100, 200, 200, 0), rgba(100, 200, 200, 0)),
+    linear-gradient(to right, #0093E9, #80D0C7);
+
+
+  background-size: 100% 0.1em, 0 0.1em;
+  background-position: 100% 100%, 0 100%;
+  background-repeat: no-repeat;
+  transition: background-size 400ms;
+}
+
+.undercolor:hover,
+.undercolor:focus {
+  background-size: 0 0.1em, 100% 0.1em;
+}
+
+.transparentDark {
+  background-color: rgba(25, 29, 32, 0.1);
+}
+
+option {
+  color: #000 !important;
+}
